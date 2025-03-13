@@ -7,6 +7,15 @@
 
 ---
 
+## 📂 주요 프로젝트  
+
+### 1️⃣ [🚀 스르스르 (구 모힘) - 교회 멤버 관리 SaaS](https://github.com/ksk0605/portfolio/tree/main/srsr_mohim_project)
+- **소개**: 교회 교적 관리 및 주소록 제공 SaaS  
+- **기술 스택**: Java, Spring Boot, PostgreSQL, AWS  
+- **주요 특징**: EAV 모델 설계, PostgreSQL JSONB 최적화
+
+---
+
 ## 🫛 자바 & OOP 학습
 
 | 미션 | 핵심 학습 내용 | 고민했던 점 | 저장소 | 회고 |
