@@ -14,6 +14,15 @@
 - **기술 스택**: Java, Spring Boot, PostgreSQL, AWS  
 - **주요 특징**: EAV 모델 설계, PostgreSQL JSONB 최적화
 
+### 2️⃣ [🌟 모우다 - 집단 내 소외감을 줄이는 커뮤니티 서비스](https://github.com/ksk0605/portfolio/tree/main/mouda_project)
+- **소개**: 모임 내 소외감을 해소하고 쉽게 모임을 만들 수 있는 커뮤니티 플랫폼
+- **기술 스택**: Java, Spring Boot, JPA, MySQL, AWS
+- **주요 기여**:
+  - JWT 기반 인증/인가 시스템 구현
+  - 선착순 참여형 모임 및 랜덤 추첨 기능 개발
+  - 백엔드 아키텍처 리팩토링
+  - JUnit Extension을 활용한 테스트 환경 개선
+
 ---
 
 ## 🫛 자바 & OOP 학습
