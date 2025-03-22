@@ -4,6 +4,7 @@
 - **기간**: 2023년 4월 ~ 현재 
 - **사용자 수**: 900+ 명 이상 (현재 서비스 개편 중)
 - **기술 스택**: Java, Spring Boot, PostgreSQL, MySQL, AWS
+- **스르스르 서비스 홈페이지**: [www.srsr.kr](https://www.srsr.kr)  
 
 ---
 
@@ -79,6 +80,3 @@
 - **🛠 협업 도구**: Notion (지라 스타일 태스크 관리)
 
 ---
-
-## 🔗 관련 자료
-- **스르스르 서비스 홈페이지**: [www.srsr.kr](https://www.srsr.kr)  
