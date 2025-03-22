@@ -38,6 +38,9 @@
 
 ## 🫛 자바 & OOP 학습
 
+바닐라 자바로 복잡한 도메인 로직을 구현하는 과정을 통해 객체지향 설계의 원리를 실전에서 적용해보았습니다.  
+역할과 책임을 나누는 연습을 반복하며, 읽기 쉽고 변경에 유연한 코드를 고민했습니다.
+
 | 미션 | 핵심 학습 내용 | 고민했던 점 | 저장소 | 회고 |
 |------|--------------|------------|--------|------|
 | 자동차 경주 | - JUnit, AssertJ를 활용한 단위 테스트<br>- 객체지향 설계 원칙<br>- MVC패턴 | - 객체의 책임과 역할 분리<br>- 테스트 코드 작성 방법<br>- 단일 책임 원칙 준수 | [java-racingcar](https://github.com/ksk0605/java-racingcar) | [회고 보러가기](https://velog.io/@ksk0605/%EC%8A%A4%EC%8A%A4%EB%A1%9C-%EB%8B%B5%ED%95%B4%EB%B3%B4%EC%9E%90-Lv1-%EC%9E%90%EB%8F%99%EC%B0%A8-%EA%B2%BD%EC%A3%BC-%ED%9B%84%EA%B8%B0) |
@@ -46,6 +49,10 @@
 | 체스 | - OOP 심화<br>- DB 설계 및 연동<br> | - 복잡한 도메인 설계<br>- DB 스키마 설계<br> | [java-chess](https://github.com/ksk0605/java-chess) | [회고 보러가기](https://velog.io/@ksk0605/%EC%8A%A4%EC%8A%A4%EB%A1%9C-%EB%8B%B5%ED%95%B4%EB%B3%B4%EC%9E%90-%EC%B2%B4%EC%8A%A4-%EB%AF%B8%EC%85%98-%ED%9B%84%EA%B8%B0) |
 
 ## 🌿 스프링 학습
+
+Spring 프레임워크가 어떻게 동작하는지 내부 구조를 직접 구현하며 학습했습니다.  
+의존성 주입, MVC 흐름, 데이터 접근 계층의 역할을 코드로 구현하며 스프링 생태계의 기반을 이해했습니다.
+
 
 - [톰캣 구현하기](https://github.com/ksk0605/java-http)
 - [Spring MVC 구현하기](https://github.com/ksk0605/java-mvc)
