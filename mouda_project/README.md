@@ -55,8 +55,3 @@ Mouda는 **집단 및 모임 내 소외감을 해소하고**, 사람들이 쉽�
 - **원활한 협업을 위한 깊은 고민과 개선 경험**
 
 ---
-
-## 🔗 **관련 자료**
-- **GitHub 저장소**: [🔗 2024-mouda](https://github.com/woowacourse-teams/2024-mouda)  
-
----
